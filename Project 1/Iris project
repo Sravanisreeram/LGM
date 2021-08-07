@@ -56,6 +56,6 @@ Disadvantages
 The accuracy scores for the testing set can vary depending on what observations are in the set.
 
 Notes
-The accuracy score of the models depends on the observations in the testing set, which is determined by decision tree,Logistic regression,Naive boys .
+The accuracy score of the models depends on the observations in the testing set, which is determined by Logistic regression,Naive boys .
 As a model's complexity increases, the training accuracy (accuracy you get when you train and test the model on the same data) increases.
 If a model is too complex or not complex enough, the testing accuracy is lower.
