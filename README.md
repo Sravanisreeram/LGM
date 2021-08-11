@@ -9,3 +9,8 @@ For "Iris Flowers Classification ML Project" i have used logistic regression and
 Intermediate Level Task:
 
 2.Prediction using Decision Tree  Algorithm :
+
+
+Beginner Level Task:
+
+3.Image to Pencil Sketch with Python:
